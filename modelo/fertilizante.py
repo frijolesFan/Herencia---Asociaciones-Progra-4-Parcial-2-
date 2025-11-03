@@ -1,4 +1,4 @@
-# modelo/fertilizante.py
+#modelo/fertilizante.py
 from datetime import date
 from modelo.producto_control import ProductoControl
 from modelo.errores import ValidationError

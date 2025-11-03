@@ -1,4 +1,4 @@
-# modelo/__init__.py
+#modelo/__init__.py
 from .producto import Producto
 from .producto_control import ProductoControl
 from .control_plagas import ControlPlagas

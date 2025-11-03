@@ -1,4 +1,4 @@
-# modelo/factura.py
+#modelo/factura.py
 from datetime import date
 from typing import List
 from modelo.errores import ValidationError

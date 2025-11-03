@@ -1,4 +1,4 @@
-# tests/test_producto_control.py
+#tests/test_producto_control.py
 import pytest
 from datetime import date
 from modelo.control_plagas import ControlPlagas

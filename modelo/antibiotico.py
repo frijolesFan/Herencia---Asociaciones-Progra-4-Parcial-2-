@@ -1,4 +1,4 @@
-# modelo/antibiotico.py
+#modelo/antibiotico.py
 from modelo.producto import Producto
 from modelo.errores import ValidationError
 

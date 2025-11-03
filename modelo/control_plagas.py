@@ -1,4 +1,4 @@
-# modelo/control_plagas.py
+#modelo/control_plagas.py
 from modelo.producto_control import ProductoControl
 from modelo.errores import ValidationError
 

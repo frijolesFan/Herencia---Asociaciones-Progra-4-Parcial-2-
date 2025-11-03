@@ -1,4 +1,4 @@
-# modelo/producto_control.py
+#modelo/producto_control.py
 from datetime import timedelta
 from modelo.producto import Producto
 from modelo.errores import ValidationError
